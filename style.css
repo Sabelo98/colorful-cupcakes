@@ -1,7 +1,7 @@
 body {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: #3a86ff;
-    color: whitesmoke;
+    font-family: 'cursive', 'cursive', 'cursive', 'cursive';
+    background-color: #000000de;
+    color: hsl(62, 97%, 51%);;
 }
 
 .cupcake {
@@ -13,7 +13,7 @@ body {
 }
 
 .flex2 {
-    flex : 2
+    flex : 1 1 100px
 }
 
 .pl1 {
@@ -22,29 +22,29 @@ body {
 
 .img {
     align-self: flex-start;
-    height: auto; 
+    height: 6em; 
     max-width: 100%;
 }
 
 
 .cupcake_box {
     padding: 1em;
-    margin: 1em;
-    border-radius: 0.5em;
+    margin: 10px 50px 20px 0;
+    border-radius: 25% 10%;
 }
 
 .cupcake1 {
-    background-color: #ff006e;
+    background-color: #002aff5c;
 }
 
 .cupcake2 {
-    background-color: #fb5607;
+    background-color: #e9ec6099;
 }
 
 .cupcake3 {
-    background-color: #8338ec;
+    background-color: #f9b397b3;
 }
 
 .blue {
-    background-color: #3a86ff;
+    background-color: #000000;
 }
